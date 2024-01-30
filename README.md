@@ -46,10 +46,22 @@ Email: **202180378@psu.palawan.edu.ph**
 * Inventory Manager
 
 
-<a href="https://github.com/Dudz23">
-      <img src="img/260163085_635431997629748_6415448990807651092_n.jpg" alt="Imahge 1" width="150"
+<a href="https://www.facebook.com/cloyd.talirongan?mibextid=9R9pXO">
+      <img src="img/facebook.jpg" alt="Imahge 1" width="50"
         style="border-radius: 50%;">
 </a>
+<a href="https://github.com/Dudz23">
+<img src="img/github.jpg" alt="Imahge 1" width="50"
+        style="border-radius: 50%;">
+</a>
+
+
+
+ <a href="https://github.com/bjournx">
+      <img src="img/332967850_559942299444468_1014472436585173873_n.jpg" alt="Imahge 1" width="150"
+        style="border-radius: 50%;">
+</a>
+
 
 Name:  **Bjan Cymar Cabangbang**
 
@@ -59,6 +71,12 @@ Email: **202180213@psu.palawan.edu.ph**
 * Cashier/Counter Attendant
 * Marketing/Social Media Coordinator
 
-
-
+<a href="https://www.facebook.com/bjancymar.cabangbang.1?mibextid=9R9pXO">
+      <img src="img/facebook.jpg" alt="Imahge 1" width="50"
+        style="border-radius: 50%;">
+</a>
+<a href="https://github.com/bjournx">
+<img src="img/github.jpg" alt="Imahge 1" width="50"
+        style="border-radius: 50%;">
+</a>
 
